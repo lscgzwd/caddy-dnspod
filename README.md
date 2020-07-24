@@ -1,1 +1,1 @@
-# caddy-dnspod
+# DNSPOD for caddy
